@@ -447,12 +447,13 @@ section .title::after{
 
 
 .sk{
+    align-items: center;
     column-count: 3;
     display: flex;
     flex-wrap: wrap;
-    gap: 100px; /* Gap between items */
-    padding: 40px; /* Padding inside the container */
-    margin: 50px; /* Margin outside the container */
+    gap: 100px;
+    padding: 40px;
+    margin: 40px;
       
 }
 /* contact section styling */
