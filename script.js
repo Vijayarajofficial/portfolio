@@ -41,13 +41,6 @@ $(document).ready(function(){
     });
     
 
-    var typed = new Typed(".typing-2", {
-        strings: ["Engineer", "Developer", "Hardware Engineer", "Freelancer","Tech Surgeon"],
-        typeSpeed: 100,
-        backSpeed: 60,
-        loop: true
-    });
-
     // owl carousel script
     $('.carousel').owlCarousel({
         margin: 20,
